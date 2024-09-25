@@ -1,0 +1,16 @@
+{
+  "name": "read_fake_xml_big",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "path": "^0.12.7",
+    "sax": "^1.4.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "create_fake_xml",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "xmlbuilder2": "^3.1.1"
+  }
+}
