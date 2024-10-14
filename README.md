@@ -22,6 +22,5 @@ This project is an efficient XML parser designed to handle extremely large XML f
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-
+   node read_file_parallel.js
+   ```
